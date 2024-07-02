@@ -20,5 +20,8 @@
   "devDependencies": {
     "ajv-cli": "^1.1.1",
     "lodash": "^4.17.11"
+  },
+  "dependencies": {
+    "punkapi-db": "^2.6.0"
   }
 }
